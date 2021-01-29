@@ -1,4 +1,4 @@
-## The pair if functions below will cash the inverse of a matrix
+## This pair if functions below will cash the inverse of a matrix
 
 ## This function creates a matrix object that 
 ## can cache its inverse
